@@ -1,0 +1,154 @@
+
+html{zoom: 37%;}
+body{height: 100%; 
+  font: 69%/1.5em  'Lucida Sans Unicode', 'Lucida Grande', verdana,arial, sans-serif;
+  color: rgb(0, 0, 0); 
+  margin: 105; 
+  padding: 0; 
+  text-align: center;
+  background: rgb(246,200,50);
+  background: linear-gradient(0deg, rgba(246,200,50,1) 8%, rgba(246,200,50,1) 30%, rgba(246,205,50,1) 39%, rgba(246,210,50,1) 47%, rgba(246,230,50,1) 50%, rgba(246,240,50,1) 53%, rgba(246,240,50,1) 57%, rgba(246,235,50,1) 61%, rgba(246,230,50,1) 65%, rgba(246,225,50,1) 70%, rgba(246,220,50,1) 75%, rgba(246,210,50,1) 81%, rgba(246,207,50,1) 85%, rgba(246,207,50,1) 89%, rgba(246,197,50,1) 93%, rgba(246,188,50,1) 96%, rgba(253,187,45,1) 100%);
+  margin:125px}
+  #p1{outline-color: black;}
+  #p2{margin-top: 1200px;}
+  #p3{margin-top: 400px;border: 2px;border-color: black;}
+  p { margin: 10 0 10px;line-height: 70px;text-shadow: rgb(0, 0, 0) 1px 1px }
+  a { 
+    font-weight: bold;
+     cursor:grab ; }
+  a:link, a:visited {     
+    text-decoration: underline;
+     color: rgb(0, 0, 0); 
+     }	
+  a:hover, a:active { 
+    text-decoration: none; 
+    color: rgb(4, 0, 255); 
+    }
+  
+  #ZoneDeContenu {
+    line-height: 50px;
+    font-size: 450%;
+     position: relative; 
+     margin: 0 auto; 
+     text-align: justify; 
+     width: 75%;}
+
+  #ZoneDeContenu h3 {
+    font-size: 117%;
+     font-weight: bold; 
+     margin-bottom: 10px; 
+     margin-top: 30px;}
+  
+  
+  #Entete {
+    margin: 0;
+    padding-top: 0px;
+    height: 80%;
+    border-bottom: 10px solid rgb(0, 0, 0);}
+
+  #Entete h1, #Entete h2 {
+    margin: 0;
+    padding: 10px;
+    color: rgb(22, 23, 24)}
+
+  #Article
+  {margin: 0 205px 0 0; 
+    background-color: rgb(255, 255, 255); 
+    padding-top: 30px;}
+
+  #img1{
+    flex-direction: both; 
+    height: 30%;}
+  #img2{
+    flex-direction: right; 
+    height: 30%; 
+    margin-right: 8%;
+    margin-left: 8%; }
+  #img3{
+    flex-direction: left; 
+    height: 30%;}
+
+  #Article p { margin: 5px 20px 15px 20px;}
+  
+  #Zone1 h3 { 
+    height: 15px; 
+    margin: 0; 
+    padding: 10px;}
+  #Zone2 h3 { 
+    height: 15px; 
+    margin:0; 
+    padding: 10px; }
+  #Zone3 h3 {
+     height: 15px; 
+    margin: 0; 
+    padding: 10px; }
+  
+ #H1background{ float: center ; 
+  color: rgb(0,0,0); 
+  margin: 105; padding: 0; 
+  text-align: center;
+  background-color:rgb(189, 212, 104) ;
+  margin:125px; height: 100px;}
+
+
+  #PiedDePage {
+      border-top: 5px solid rgb(0, 0, 0);
+      padding: 10px 15px 10px 10px;
+      text-align: left;
+      margin: 0;
+      background-color: rgba(0, 0, 0, 0.548);
+    }
+  #PiedDePage a {
+     margin-left: 20px;}
+  
+  #MenuDroit {
+    line-height: 35px;
+    padding: 0; 
+    margin: 10; 
+    width: 10%;
+    height: 15%; 
+    float: left; 
+    margin-left: 1%; 
+    right: 0; 
+    font-size: 300%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin-top: 8%;
+    padding-top: 10%;
+    padding-bottom: 10%; }
+  #ul1{
+    list-style-type: none;
+    color: rgb(255, 255, 255);
+    float: center;}
+
+  #ul1 a {
+      color: rgb(255, 255, 255);
+      display: block;
+      margin: 5%;}
+
+  nav  {
+      position:sticky;
+      top: 52.55%;}
+
+
+  h3 .archives {
+     height: 30px;
+     margin: 0; 
+     padding: 0; }
+  h3 .archives span {
+      margin: 0;
+      padding: 10px;
+      color: rgb(0, 0, 0);
+  }
+  .CouleurTexte3 {color:rgb(255, 196, 196)}
+  
+  h4 {font-size:  15px}
+  h5 {font-size: 15px}
+  h3 { 
+     color : black;
+     text-decoration: underline;}
+
+  #imgP {float: left;margin: 20px;}
+  #imgP2 {float: right; margin: 20px;margin-bottom: 250px;}
+  footer{background-color: black; color: white; margin:100px;}
+  
